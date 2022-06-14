@@ -41,7 +41,7 @@ ul {
 }
 a {
   text-decoration: none;
-  color: #000;
+  color: rgb(29, 0, 52);
 }
 a:hover {
   border-bottom: 1px solid;
